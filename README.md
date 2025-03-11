@@ -4,7 +4,7 @@
 - **Java** (linguagem principal)
 - **Scanner** (para entrada de dados do usuário)
 
-Este projeto é um sistema simples de reserva de cadeiras em uma matriz 2D, onde as cadeiras podem estar livres ou ocupadas. O usuário pode escolher uma cadeira para reservar e o sistema atualiza o status da mesma.
+Este é um projeto antigo de um sistema simples de reserva de cadeiras em uma matriz 2D, onde as cadeiras podem estar livres ou ocupadas. O usuário pode escolher uma cadeira para reservar e o sistema atualiza o status da mesma.
 
 ## 📋 Funcionalidades
 
